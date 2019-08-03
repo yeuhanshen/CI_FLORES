@@ -1,0 +1,1 @@
+Congratulations, you just created your first CodeIgniter application! Add some news and check out the different pages you made
